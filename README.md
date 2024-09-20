@@ -1,6 +1,6 @@
 <h1 align="center"> MOBA: Mobile Banking</h1>
 
-_MOBA es una billetera virtual, desarrollada como proyecto final del bootcamp de [Henry](https://soyhenry.com), desarrollada para Android e iOs_
+_MOBA es una billetera virtual, desarrollada para Android e iOs_
 
 _<p align="center">[Video de presentación](https://www.youtube.com/watch?v=fs4kmvSOWmg)</p>_
 
